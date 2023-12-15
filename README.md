@@ -157,5 +157,5 @@ requests.post(webhook_url = SLACK_WEBHOOK, json = slack_data)
 
 That's it! In this example, Slack was used for reporting purposes, but it is possible to adjust the code so that backlinks and their statuses would be exported to a .csv file, google spreadsheets, or database. 
 
-Please see [backlink_monitoring_oxylabs.py](/backlink_monitoring_oxylabs.py) for the complete code.
+Please see [backlink_monitoring_oxylabs.py](https://github.com/oxylabs/backlink-monitoring/blob/main/backlink_monitoring.py) for the complete code.
 
