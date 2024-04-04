@@ -1,6 +1,8 @@
 # Backlink checker
 [<img src="https://img.shields.io/static/v1?label=&message=Python&color=brightgreen" />](https://github.com/topics/python) [<img src="https://img.shields.io/static/v1?label=&message=web%20scraping&color=important" />](https://github.com/topics/web-scraping)
 
+[![](https://dcbadge.vercel.app/api/server/eWsVUJrnG5)](https://discord.gg/GbxmdGhZjq)
+
 ## Table of Contents
 
 - [Packages Required](#packages-required)
